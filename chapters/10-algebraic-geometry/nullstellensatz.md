@@ -319,7 +319,7 @@ Its conceptual lineage is roughly:
 
 ↓
 
-$\mathrm{Spec}\,A$
+**Spec A**
 
 ↓
 
