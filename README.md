@@ -57,6 +57,15 @@ Each chapter should contain, as appropriate:
 - **What to remember**
 - **Further directions**
 
+## Math formatting convention
+
+All Markdown in this repository uses GitHub's supported mathematical notation:
+
+- Inline mathematics: `$ ... $`
+- Display mathematics: `$$ ... $$`
+
+Do not use `\\(...\\)` or `\\[...\\]` delimiters in repository Markdown, since those are not rendered consistently by GitHub clients, especially on mobile.
+
 ## Status
 
 This repository is intended to grow incrementally. The first exemplar chapter is Hilbert's Nullstellensatz, since it illustrates the desired depth and explanatory style especially well.
