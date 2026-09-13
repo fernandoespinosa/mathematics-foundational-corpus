@@ -4,6 +4,13 @@
 
 State the result precisely. Include hypotheses explicitly and distinguish major variants.
 
+Use GitHub-compatible math delimiters throughout:
+
+- Inline mathematics: `$ ... $`
+- Display mathematics: `$$ ... $$`
+
+Do not use `\\(...\\)` or `\\[...\\]` delimiters.
+
 ## Before the theorem
 
 What mathematical problem, obstruction, or conceptual gap existed beforehand?
