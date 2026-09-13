@@ -309,13 +309,23 @@ From there one can develop:
 
 Its conceptual lineage is roughly:
 
-**Nullstellensatz**  
-↓  
-**varieties as algebra**  
-↓  
-$\mathrm{Spec}\,A$  
-↓  
+<div align="center">
+
+**Nullstellensatz**
+
+↓
+
+**affine algebraic sets** ⇔ **radical ideals**
+
+↓
+
+$\mathrm{Spec}\,A$
+
+↓
+
 **schemes**
+
+</div>
 
 ## What to remember
 
