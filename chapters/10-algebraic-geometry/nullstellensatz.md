@@ -177,7 +177,7 @@ This is maximal, and every maximal ideal is obtained this way.
 Hence
 
 $$
-\operatorname{MaxSpec}k[x_1,\dots,x_n]\cong k^n.
+\mathrm{MaxSpec}\,k[x_1,\dots,x_n]\cong k^n.
 $$
 
 So ordinary geometric points can be recovered purely algebraically as maximal ideals.
@@ -185,7 +185,7 @@ So ordinary geometric points can be recovered purely algebraically as maximal id
 That observation is one of the conceptual ancestors of scheme theory. Grothendieck's decisive move was to keep not only maximal ideals but **all prime ideals**, producing
 
 $$
-\operatorname{Spec}A.
+\mathrm{Spec}\,A.
 $$
 
 The resulting generalized points encode far more algebraic structure than classical point sets alone.
@@ -314,7 +314,7 @@ $$
 \longrightarrow
 \text{varieties as algebra}
 \longrightarrow
-\operatorname{Spec}
+\mathrm{Spec}\,A
 \longrightarrow
 \text{schemes}.
 $$
