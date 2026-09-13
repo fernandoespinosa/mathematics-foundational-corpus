@@ -307,17 +307,15 @@ From there one can develop:
 - sheaves
 - algebraic geometry over arbitrary base rings
 
-Its conceptual lineage is roughly
+Its conceptual lineage is roughly:
 
-$$
-\text{Nullstellensatz}
-\longrightarrow
-\text{varieties as algebra}
-\longrightarrow
-\mathrm{Spec}\,A
-\longrightarrow
-\text{schemes}.
-$$
+**Nullstellensatz**  
+↓  
+**varieties as algebra**  
+↓  
+$\mathrm{Spec}\,A$  
+↓  
+**schemes**
 
 ## What to remember
 
